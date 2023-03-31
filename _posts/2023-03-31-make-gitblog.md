@@ -1,3 +1,13 @@
+---
+layout: post
+title: git blog 만들기
+subtitle: 코드없이 후다다닥 git blog만들기
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/blog.jpg # 썸네일
+share-img: /assets/img/blog_b.jpeg # 배너
+tags: [blog, test]
+---
+
 ## git blog 만들기
 ---
 
