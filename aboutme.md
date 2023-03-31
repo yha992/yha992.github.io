@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 내가 알고 싶으면 읽어보세요!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+저는 유현아입니다! 아래에 흥미가 있어요.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- IT기술에 흥미가 있어요(특히 인공지능)
+- 사람들과 대화로 에너지를 얻어요
 
-What else do you need?
+제가 더 궁금하시면 블로그를 자주 방문해주세요.
 
-### My story
+### 나의 SNS
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+솔직히 지금은 뭐라고 쓸지 기억이 안나요. [제 페북](https://www.facebook.com/profile.php?id=100002224707173)에 오시면 편하게 소통가능합니다.
